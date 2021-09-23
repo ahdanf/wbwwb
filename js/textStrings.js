@@ -618,6 +618,3 @@ var textStrings_ES = {
 	// (quote0004.png)
 	"misatrributed": "(misattributed)",
 };
-
-var textStrings = textStrings_EN
-var language = "EN"
